@@ -27,6 +27,5 @@ Hello! I'm Pavan, an ambitious AI/ML Engineer dedicated to pushing the boundarie
 ## 📫 Let's Connect!
 
 * 📧 Email: lakkipa1@ksu.edu
-* 📱 Phone: +1 612-850-6482
 * 💼 LinkedIn: [Pavan Kumar Reddy Lakkireddy](https://www.linkedin.com/in/Pavan)
-* 🐙 GitHub: [Pavan's GitHub](https://github.com/Pavan)
+  
