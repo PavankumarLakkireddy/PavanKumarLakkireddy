@@ -8,28 +8,21 @@ Hello! I'm Pavan, an ambitious AI/ML Engineer dedicated to pushing the boundarie
 * 🚀 Experienced in developing cutting-edge AI/ML applications
 * 🌱 Constantly exploring and implementing new technologies in the AI domain
 * 📚 Graduate Teaching Assistant for Deep Learning, Machine Learning, and AI courses
+# 🛠 Technologies & Skills
 
-## 🛠 Technologies I Use
-
-Python C C++ PyTorch TensorFlow LangChain Vertex AI Scikit-learn AWS Google Cloud Azure Docker Git MySQL PostgreSQL NumPy Pandas Matplotlib OpenCV LLMs RAG NLP Streamlit Machine Learning Deep Learning Computer Vision
-
-## 🏆 Projects
-
-* **Classification of Apple Leaf Diseases**: Achieved 98.54% accuracy using ResNet-50 for image classification
-* **ASL and Facial Expression Recognition**: Implemented YOLOv9, achieving 0.937 mAP50 for gesture and expression recognition
-* **Vehicle Detection and Counting**: Developed YOLOv8 model with 98.1% mAP50 for video-based vehicle detection
-* **Gender Classification Using Facial Recognition**: Applied VGG-16 and MobileNet, achieving up to 96.3% accuracy
-
-## 💼 Professional Experience
-
-* **AI/ML Engineer Intern** - Radical AI, New York, NY (Jun 2024 – Present)
-* **AI/ML Engineer** - Fellowship.AI, San Francisco, CA (Apr 2024 – Jun 2024)
-* **Graduate Teaching Assistant** - Kansas State University, Manhattan, KS (Jan 2023 – Present)
-
-## 🎓 Education
-
-* **M.S. in Computer Science** - Kansas State University, Manhattan, Kansas (Jan 2023 – Dec 2024)
-* **B.Tech in Electronics and Communication** - CBIT, Hyderabad, India (Jun 2013 – Aug 2017)
+| Category | Technologies |
+|----------|--------------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) |
+| **Machine Learning / Deep Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Data Processing & Analysis** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white) |
+| **Natural Language Processing** | ![NLTK](https://img.shields.io/badge/-NLTK-222222?style=flat-square) ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square) |
+| **AI Frameworks** | ![LangChain](https://img.shields.io/badge/-LangChain-222222?style=flat-square) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF9A00?style=flat-square) |
+| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white) |
+| **Version Control & Collaboration** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) |
+| **Containerization** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) |
+| **Web Development** | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) |
 
 ## 📫 Let's Connect!
 
